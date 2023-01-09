@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "VkAEw4+kGQ6S/XN75BNuZcp0PqBgpzjdC+zPybWd0ZQbuB/LN6tcjhSZcKbO467QxqsjgPPU7DTwCuoRJqqkvQ==",
+  "success": false,
+  "projectFilePath": "C:\\ASP Net Core Vuejs\\Sistema\\Sistema.Web\\Sistema.Web.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Swashbuckle.AspNetCore. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
