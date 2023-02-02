@@ -1,18 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "VkAEw4+kGQ6S/XN75BNuZcp0PqBgpzjdC+zPybWd0ZQbuB/LN6tcjhSZcKbO467QxqsjgPPU7DTwCuoRJqqkvQ==",
-  "success": false,
+  "dgSpecHash": "/mPBGJgcp839vVkJzqBrLfZZwhMAvfXoVVhm8clEP9Q9z1dY1LvnJ5v6SpigZyOo8czpqVf4TdLsedm/2a2iYg==",
+  "success": true,
   "projectFilePath": "C:\\ASP Net Core Vuejs\\Sistema\\Sistema.Web\\Sistema.Web.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "No se encuentra el paquete Swashbuckle.AspNetCore. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
-      "libraryId": "Swashbuckle.AspNetCore",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "expectedPackageFiles": [
+    "C:\\Users\\jrojasr1998\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jrojasr1998\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jrojasr1998\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\jrojasr1998\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\jrojasr1998\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\jrojasr1998\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
 }
